@@ -12,5 +12,6 @@ To obtain an equivalent vector for a word, we select all the values in the colum
 
 Similarity between these vectors can be evaluated by using cosine similarity.
 
+<img width="279" alt="screen shot 2017-11-20 at 12 09 10 pm" src="https://user-images.githubusercontent.com/10357045/33005465-e8823c60-cdeb-11e7-826c-ae055c64d9a1.png">
 
 Hence, the similarity between vector for IRS and ML is 100%. Similarly, similarity between vector for love and I is 0%.

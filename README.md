@@ -2,7 +2,8 @@
 
 There have been many methods which can be used to convert words to vectors. The major two types of methods are - frequency based vectorisation and prediction based vectorisation. Frequency based vectorisation includes “Co-occurrence matrix method”.
 
-Co-occurence Matrix Method:
+**Co-occurence Matrix Method:**
+
 Analysing context of a word in a text is a very sensitive issue. However, getting help from the neighbours of that word has helped make progress in this field. This type of method involves a parameter termed as ‘Window-size’, which indicates the number of words that need to be looked at, on both left-hand side and right-hand side while calculating the vector for that word. If window-size is equal to 1, we shall consider one neighbour from both right and left side of the word during the vectorisation process. I  have   considered   a   window-size   of   value   1.
 
 <img width="573" alt="screen shot 2017-11-20 at 12 06 22 pm" src="https://user-images.githubusercontent.com/10357045/33005444-d65f43b6-cdeb-11e7-9269-651149610308.png">
